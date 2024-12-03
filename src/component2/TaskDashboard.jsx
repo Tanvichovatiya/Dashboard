@@ -12,7 +12,7 @@ const TaskDashboard = () => {
   };
 
   return (
-    <div className="p-6">
+    <div className="p-6 bg-slate-500">
       <h2 className="text-2xl font-bold mb-4">Task Management Dashboard</h2>
       <div className="flex gap-4 mb-4">
         <button
